@@ -1,0 +1,20 @@
+# Ignore build and output directories
+/out/
+*.iml
+.gradle
+/local.properties
+# Ignore IDE settings
+.idea/
+/*.iml
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
